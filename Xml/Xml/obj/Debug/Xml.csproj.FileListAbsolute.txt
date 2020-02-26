@@ -1,0 +1,42 @@
+C:\Users\filip\source\repos\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\filip\source\repos\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\filip\source\repos\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\filip\source\repos\Xml\Xml\obj\Debug\Xml.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\Xml\Xml\obj\Debug\Xml.Form1.resources
+C:\Users\filip\source\repos\Xml\Xml\obj\Debug\Xml.Properties.Resources.resources
+C:\Users\filip\source\repos\Xml\Xml\obj\Debug\Xml.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\filip\source\repos\Xml\Xml\obj\Debug\Xml.pdb
+C:\Users\Mateo\Desktop\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\Mateo\Desktop\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\Mateo\Desktop\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\Mateo\Desktop\Xml\Xml\obj\Debug\Xml.csprojAssemblyReference.cache
+C:\Users\Mateo\Desktop\Xml\Xml\obj\Debug\Xml.Form1.resources
+C:\Users\Mateo\Desktop\Xml\Xml\obj\Debug\Xml.Properties.Resources.resources
+C:\Users\Mateo\Desktop\Xml\Xml\obj\Debug\Xml.csproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\Mateo\Desktop\Xml\Xml\obj\Debug\Xml.pdb
+C:\Users\Mateo\Desktop\Xml\Xml\bin\Debug\Imovina_20200108_2.xml
+C:\Users\filip\Desktop\Xml\Xml\Xml\bin\Debug\Imovina_20200108_2.xml
+C:\Users\filip\Desktop\Xml\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\filip\Desktop\Xml\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\filip\Desktop\Xml\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\filip\Desktop\Xml\Xml\Xml\obj\Debug\Xml.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Xml\Xml\Xml\obj\Debug\Xml.Form1.resources
+C:\Users\filip\Desktop\Xml\Xml\Xml\obj\Debug\Xml.Properties.Resources.resources
+C:\Users\filip\Desktop\Xml\Xml\Xml\obj\Debug\Xml.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Xml\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Xml\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\filip\Desktop\Xml\Xml\Xml\obj\Debug\Xml.pdb
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\bin\Debug\Imovina_20200108_2.xml
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\obj\Debug\Xml.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\obj\Debug\Xml.Form1.resources
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\obj\Debug\Xml.Properties.Resources.resources
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\obj\Debug\Xml.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\filip\Desktop\drugi pokušaj\Xml\Xml\Xml\obj\Debug\Xml.pdb
